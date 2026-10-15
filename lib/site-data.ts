@@ -8,7 +8,7 @@ export const NAV = [
   { href: '/', label: 'Home' },
   { href: '/requisitions', label: 'Job Requisitions' },
   { href: '/slas', label: 'SLAs' },
-  { href: '/knowledge', label: 'Knowledge Article' },
+  { href: '/knowledge', label: 'Knowledge Articles' },
   { href: '/about', label: 'About Us' },
   { href: '/recruiters', label: 'Our Recruiters' },
 ];
